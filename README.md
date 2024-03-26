@@ -14,6 +14,9 @@
 </div>
 
 <br> 
+Heidrun is a talented FiveM Developer and UI Designer with a passion for creating immersive virtual experiences. With a keen eye for detail and a knack for innovative design, Heidrun crafts engaging user interfaces that elevate the gaming experience. His expertise in Lua scripting and proficiency in tools like Photoshop and Figma allow him to bring his creative visions to life seamlessly.
+
+<br>
 
 <div align="center">
  
