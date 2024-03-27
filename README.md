@@ -5,7 +5,7 @@
 
 
 <div align="center"> 
-  <a href="mailto:lubiedupeczki123@proton.me" target="_blank">
+  <a href="mailto:fivemowo@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank" />
   </a> 
   <a href="#" target="_blank">
